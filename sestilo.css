@@ -6,5 +6,13 @@
 }
 
 footer {
+    background: #F5F0A9;
+}
+
+header {
+    background: #74A394;
+}
+
+body {
     background: #FCF9EB;
 }
